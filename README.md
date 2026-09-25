@@ -1,0 +1,2 @@
+# ESP32-Custom-Development-Board-with-ESP32-WROOM-32D-Module
+Designed a custom 4 layer ESP32 development board around the ESP32 WROOM 32D module in EasyEDA: CP2102N USB to UART with transistor auto reset, dual buck power (12V/USB Type C to 5V to 3.3V) with ideal diode ORing, and a board edge antenna keep out. The board works reliably in DIO mode at 40 MHz and detects WiFi networks from −9 dBm to −95 dBm.
